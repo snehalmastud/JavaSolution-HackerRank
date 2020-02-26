@@ -1,3 +1,3 @@
 # myJavaSolution-HackerRank
-![image](https://miro.medium.com/max/672/1*l2lakZUh9Tkp5yxwud-2tQ.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)
 >My solutions to HackerRank's Java Challenge!
