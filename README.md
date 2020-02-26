@@ -19,4 +19,4 @@
 
 ---
 ## Introduction
--Java Currency Formatter(https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Introduction/Java%20Currency%20Formatter/Solution.java)
+-[Java Currency Formatter](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Introduction/Java%20Currency%20Formatter/Solution.java)
