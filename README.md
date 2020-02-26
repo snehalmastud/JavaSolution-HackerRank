@@ -44,3 +44,30 @@
 -[Java Stdin and Stdout 1](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Introduction/Java%20Stdin%20and%20Stdout%20l/Solution.java)
 
 -[Java Stdin and Stdout 2](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Introduction/Java%20Stdin%20and%20Stdout%20ll/Solution.java)
+
+---
+
+## Strings
+-[Java Strings Introduction](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Strings%20Introduction/Solution.java)
+
+-[Java Anagrams](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Anagrams/Solution.java)
+
+-[Java Regex 2- Duplicate Words](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Regex%202-%20Duplicate%20Words/Solution.java)
+
+-[Java Regex](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Regex/Solution.java)
+
+-[Java String Reverse](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20String%20Reverse/Solution.java)
+
+-[Java String Tokens](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20String%20Tokens/Solution.java)
+
+-[Java Substring Comparisons](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Substring%20Comparisons/Solution.java)
+
+-[Java Substring](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Java%20Substring/Solution.java)
+
+-[Pattern Syntax Checker](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Pattern%20Syntax%20Checker/Solution.java)
+
+-[Tag Content Extractor](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Tag%20Content%20Extractor/Solution.java)
+
+-[Valid Username Regular Expression](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Strings/Valid%20Username%20Regular%20Expression/Solution.java)
+
+---
