@@ -3,16 +3,20 @@
 >My solutions to HackerRank's Java Challenge!
 ---
 ### Table of Contents
--[Introduction]
+-[Introduction](#Introduction)
 
--[Strings]
+-[Strings](#Strings)
 
--[Object Oriented Programming]
+-[Object Oriented Programming](#Object-Oriented-Programming)
 
--[Data Structures]
+-[Data Structures](#Data-Structures)
 
--[Exception Handling]
+-[Exception Handling](#Exception-Handling)
 
--[Big Number]
+-[Big Number](#Big-Number)
 
--[Advanced]
+-[Advanced](#Advanced)
+
+---
+## Introduction
+-Java Currency Formatter(https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Introduction/Java%20Currency%20Formatter/Solution.java)
