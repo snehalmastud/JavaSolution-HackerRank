@@ -1,4 +1,4 @@
-# HackerRank Java Challenge
+# HackerRank Java Challenge!
 ![image](https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&hash=mUbYKvObGxn3TOm41QRdObQ0bd4%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6igRgezFIv5brOq0y_9kIIRJHPB3TiRHf7roLVI2izKIGOFu704ghKFy9u00BjPazHRV-9S83nft62I8Ix1cA)
 >My solutions to HackerRank's Java Challenge!
 ---
