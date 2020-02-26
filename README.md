@@ -1,5 +1,5 @@
 # HackerRank Java Challenge
-![image](https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png)
+![image](https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&hash=mUbYKvObGxn3TOm41QRdObQ0bd4%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6igRgezFIv5brOq0y_9kIIRJHPB3TiRHf7roLVI2izKIGOFu704ghKFy9u00BjPazHRV-9S83nft62I8Ix1cA)
 >My solutions to HackerRank's Java Challenge!
 ---
 ### Table of Contents
@@ -160,3 +160,10 @@
 -[Java Visitor Pattern](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Advanced/Java%20Visitor%20Pattern/Solution.java)
 
 -[Prime Checker](https://github.com/snehalmastud/myJavaSolution-HackerRank/blob/master/Advanced/Prime%20Checker/Solution.java)
+
+---
+
+## Author Info
+-[HackerRank](https://www.hackerrank.com/smastud0)
+
+-[Linkedln](https://www.linkedin.com/in/snehal-mastud-23a64716b/)
