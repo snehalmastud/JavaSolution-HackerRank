@@ -164,6 +164,8 @@
 ---
 
 ## Author Info
+> SBM
+
 -[HackerRank](https://www.hackerrank.com/smastud0)
 
 -[Linkedln](https://www.linkedin.com/in/snehal-mastud-23a64716b/)
